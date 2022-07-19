@@ -1,0 +1,7 @@
+<library path="swerve_steering_controller">
+  <class name="swerve_steering_controller/SwerveSteeringController" type="swerve_steering_controller::SwerveSteeringController" base_class_type="controller_interface::ControllerInterface">
+  <description>
+    The swerve steering controller transforms linear and angular velocity messages into signals for each wheel(s) for a omnidirectional swerve steering robot.
+  </description>
+  </class>
+</library>
